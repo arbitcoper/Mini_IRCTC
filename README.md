@@ -48,7 +48,10 @@ Setup Instructions
    
    b. Import the database schema:
       - Connect to your MySQL server
-      - Execute the command: `source irctc_db_final.sql;`
+      - Execute the command:
+        ```sql
+        source irctc_db_final.sql;
+        ```
         
 
 4. Running Queries:
